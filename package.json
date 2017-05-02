@@ -9,6 +9,8 @@
   "author": "John",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "express-useragent": "^1.0.7",
+    "ip": "^1.1.5"
   }
 }
